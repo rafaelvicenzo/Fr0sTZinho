@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fr0sTZinho
 - 👀 I’m interested in games
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on planet 
 - 📫 How to reach me discord: Fr0sT#8996
 
